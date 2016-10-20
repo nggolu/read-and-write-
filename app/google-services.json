@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "534848673790",
+    "firebase_url": "https://readwrite-858a2.firebaseio.com",
+    "project_id": "readwrite-858a2",
+    "storage_bucket": "readwrite-858a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534848673790:android:5033be7e0f19b2d0",
+        "android_client_info": {
+          "package_name": "com.example.goku.readwrite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534848673790-m5g2qjknof4spekm64i92bj4geaevlhk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.goku.readwrite",
+            "certificate_hash": "3FD4FA4CAD0FAD804F0D44EF630328BA060D1C7F"
+          }
+        },
+        {
+          "client_id": "534848673790-bt8jc7nfuge59kht7ueaeor7noh2s0hh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3Its4ta-2KF2NBrTuQvTJHLGqL3npTvQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534848673790-bt8jc7nfuge59kht7ueaeor7noh2s0hh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
