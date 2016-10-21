@@ -55,11 +55,13 @@ public class Dummy extends AppCompatActivity {
                 Message msg = new Message();
 
                 msg.setInfo_msg(information_message.getText().toString());
-                msg.setAlert_msg(alert_message.getText().toString());
+              //  msg.setAlert_msg(alert_message.getText().toString());
                 fire.child("Message").setValue(msg);
 
                 information_message.setText("");
                 alert_message.setText("");
+                Intent intent = new Intent(Dummy.this,Home.class);
+                startActivity(intent);
             }
 
 

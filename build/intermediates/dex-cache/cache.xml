@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_1309521aecace51d777ebbfe9a1a701394698cc9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.6.1_4c6045079f19aff049f81eebcd039d2f703c80ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.6.1_3efd1cee7b8deba59f04a34afb7bd30e22c24493/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="261c62cdad9b7349313494cc50e4876596c37d62">
+        <dex dex="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6845f3938257322e276cc68f5e5b46d4c2c39699/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/goku/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.2.2_ae1d8595d2a9546c3bc7db81f9d09c7947e45ae0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_7fbe22d4fe05fe3c936684c0a20c1d92a057bad8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.6.1_2ab79adf7f888c8255c7f3a822521ef6e1e9865a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_d4cf6235176b8f2ae1da0c96e04ae5362e5b7387/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.6.1_4b6a4951f9d8076b810db9bd4f6ecb12debbddf8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.6.1_cad431e8db6e9b6e2d717266090a0cba8b358f4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.6.1_a30876b47fdeb9585e1b3b618526efd78904500e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_1239bc7502b44f58e4d3d4eb970485cc500e5ab7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.6.1_54aa5615755f02017168f1d3cdda41adc772b8bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_9d8ff4b855558b542ffc7dd51f3c3397fc50a081/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
+        <dex dex="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.6.1_088f244fc0817611e5990d6fc42063045ab06289/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/goku/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_bd9b80d92f403e913b1877415a8b4569cc8a3e88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c1e01052f3b47d8cfdbbff07c2f2593621b09146/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_804b1e1a6c5dd9303cc3ecc71db865e06d33bfec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/goku/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.5.0/c0af904657634f7ab9cc21e75d80250570033321/firebase-client-jvm-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c0af904657634f7ab9cc21e75d80250570033321">
+        <dex dex="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/transforms/dex/debug/folders/1000/10/firebase-client-jvm-2.5.0_542aa7a595befbe4585e2057bf1592e2fea274d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_f569a2c4e00460551a651ef9bfc22fd303326bc2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.6.1_dc52e2d122555722ee97aef043dfbc01df78f489/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_2e82b94309c577892cd3e8107243be1c114f8dcb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_b679b465e55625213d4914db2e6b3092bd8c156d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/goku/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.5.0/7d0473896b3b10b23a2f9812fec4316dff8afdd/firebase-client-android-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="07d0473896b3b10b23a2f9812fec4316dff8afdd">
+        <dex dex="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/transforms/dex/debug/folders/1000/10/firebase-client-android-2.5.0_4282cf72a3c48ef3c8c4e7e925bd4018183bb1ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f5d251b7f38ba8caccda21cd869b1b0b36a62bc4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.6.1_5cde40ef476a47a7bd7251a1f3b4315d77850d14/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_67a594fe51ffea3775427529db54aaba39be17ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.6.1_fc0f686003a543738495ffe4bff9f4f3c1633965/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/goku/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.12/6ec0bbd3e161a73ed672284b587fd32309a86d7a/tubesock-0.0.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/transforms/dex/debug/folders/1000/10/tubesock-0.0.12_eb1169c2c77b2b50205f2fda74cd9440f8a566f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_634c766e389ab7f8d3eaab99f7700a492608bc8a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="62e415dc70ea739cfd50312711ac80096d72df9d">
+        <dex dex="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4ba6e9502e5098fb446200fe81db3ad7e6b85eb4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_1870882be503f557b9183a7574254a14266374bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.6.1_5c4f5a74e635c879950b79ee546c0569ba12a5d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/goku/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-databind-2.2.2_8218723922e73d2fc9e0e7291e11a695ba10abe5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/goku/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/home/goku/AndroidStudioProjects/ReadWrite/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-annotations-2.2.2_e360a29d64f62484443484e80f0a88ca37d25a8a/classes.dex" />
+    </item>
+
+</items>
